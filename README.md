@@ -1,4 +1,4 @@
 # AntinoLabsPuneetVerma
  Assignment
-
-![alt text](https://drive.google.com/file/d/1Kuoxjo8J6tZIxtky7jBH7y7Xk9W3slcL/view?usp=sharing)
+ 
+ ![Screenshot1](https://github.com/RedVrma/AntinoLabsPuneetVerma/blob/main/screenshots/view.png?raw=true)
